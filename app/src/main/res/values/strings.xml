@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">POS_Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="auto_scan">Auto Scan</string>
+    <string name="scan_the_barcode_to_add_item_n_item_product_to_counter">Scan The Barcode to add Item \n Item / Product to counter</string>
+    <string name="barcode_scanner">BARCODE SCANNER</string>
+    <string name="press_to_scan">PRESS TO SCAN</string>
+    <string name="inventory_management">INVENTORY MANAGEMENT</string>
+    <string name="new_category">new category</string>
+    <string name="new_item">new item</string>
+    <string name="backarrow">backArrow</string>
+</resources>

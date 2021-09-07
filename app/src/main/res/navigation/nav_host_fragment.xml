@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_host_fragment"
+    app:startDestination="@id/counterFragment">
+
+    <fragment
+        android:id="@+id/reportsFragment"
+        android:name="com.example.pos_mobile.fragments.ReportsFragment"
+        android:label="fragment_reports"
+        tools:layout="@layout/fragment_reports" />
+    <fragment
+        android:id="@+id/todayFragment"
+        android:name="com.example.pos_mobile.fragments.TodayFragment"
+        android:label="fragment_today"
+        tools:layout="@layout/fragment_today" />
+    <fragment
+        android:id="@+id/counterFragment"
+        android:name="com.example.pos_mobile.fragments.CounterFragment"
+        android:label="fragment_counter"
+        tools:layout="@layout/fragment_counter" />
+    <fragment
+        android:id="@+id/itemsFragment"
+        android:name="com.example.pos_mobile.fragments.ItemsFragment"
+        android:label="fragment_items"
+        tools:layout="@layout/fragment_items" />
+    <fragment
+        android:id="@+id/moreFragment"
+        android:name="com.example.pos_mobile.fragments.MoreFragment"
+        android:label="fragment_more"
+        tools:layout="@layout/fragment_more" />
+</navigation>

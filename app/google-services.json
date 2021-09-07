@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102724236932",
+    "project_id": "posmobile-87336",
+    "storage_bucket": "posmobile-87336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102724236932:android:a82408f9a98470109cf4d1",
+        "android_client_info": {
+          "package_name": "com.example.pos_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102724236932-qbl56bedkdioduf2b787v5s2i67pko4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJKT4Q5phxgiAW1mqTj8wrrQBaGsnePY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102724236932-qbl56bedkdioduf2b787v5s2i67pko4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
